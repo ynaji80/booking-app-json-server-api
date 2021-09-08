@@ -1,0 +1,161 @@
+{
+    "hotels": [
+      {
+        "img": "https://links.papareact.com/xqj",
+        "city": "London",
+        "location": "Private room in center of London",
+        "title": "Stay at this spacious Edwardian House",
+        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.73,
+        "price": "30€ / night",
+        "total": "117€ total",
+        "long": -0.0022275,
+        "lat": 51.5421655,
+        "open": "2021-09-08",
+        "closed": "2021-09-16"
+      },
+      {
+        "img": "https://links.papareact.com/hz2",
+        "city": "London",
+        "location": "Private room in center of London",
+        "title": "Independant luxury studio apartment",
+        "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
+        "star": 4.3,
+        "price": "40€ / night",
+        "total": "157€ total",
+        "long": -0.095091,
+        "lat": 51.48695,
+        "open": "2021-09-08",
+        "closed": "2021-09-09"
+      },
+      {
+        "img": "https://links.papareact.com/uz7",
+        "city": "London",
+        "location": "Private room in center of London",
+        "title": "London Studio Apartments",
+        "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
+        "star": 3.8,
+        "price": "35€ / night",
+        "total": "207€ total",
+        "long": -0.135638,
+        "lat": 51.521916,
+        "open": "2021-09-08",
+        "closed": "2021-09-20"
+      },
+      {
+        "img": "https://links.papareact.com/6as",
+        "city": "Paris",
+        "location": "Private room in center of Paris",
+        "title": "30 mins to the Louvre Museum in Paris",
+        "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 4.1,
+        "price": "55€ / night",
+        "total": "320€ total",
+        "long": -0.069961,
+        "lat": 51.472618,
+        "open": "2021-09-08",
+        "closed": "2021-09-20"
+      },
+      {
+        "img": "https://links.papareact.com/xhc",
+        "city": "Paris",
+        "location": "Private room in center of Paris",
+        "title": "Spacious Peaceful Modern Bedroom",
+        "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
+        "star": 5,
+        "price": "60€ / night",
+        "total": "450€ total",
+        "long": -0.08472,
+        "lat": 51.510794,
+        "open": "2021-09-08",
+        "closed": "2021-09-20"
+      },
+      {
+        "img": "https://links.papareact.com/pro",
+        "city": "New york",
+        "location": "Private room in center of New York",
+        "title": "The Blue Room In New York",
+        "description": "2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
+        "star": 4.23,
+        "price": "65€ / night",
+        "total": "480€ total",
+        "long": -0.094116,
+        "lat": 51.51401,
+        "open": "2021-09-08",
+        "closed": "2021-09-20"
+      },
+      {
+        "img": "https://links.papareact.com/8w2",
+        "city": "New york",
+        "location": "Private room in center of New York",
+        "title": "5 Star Luxury Apartment",
+        "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star": 3.85,
+        "price": "90€ / night",
+        "total": "650€ total",
+        "long": -0.109889,
+        "lat": 51.521245,
+        "open": "2021-09-08",
+        "closed": "2021-09-20"
+      }
+    ],
+    "cityCards": [
+      {
+        "img": "https://images.unsplash.com/photo-1509095660908-d9b1e7ffec62?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGxvbmRvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "London",
+        "country":"United Kingdom"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1513326738677-b964603b136d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
+        "location": "Moscow",
+        "country":"Russia"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1599859725763-4a16c9468890?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=908&q=80",
+        "location": "Marrakech",
+        "country":"Morocco"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        "location": "Paris",
+        "country":"France"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "New York",
+        "country":"United States"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmFyY2Vsb25hfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Barcelona",
+        "country":"Spain"
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JlZWNlJTIwc2FudG9yaW5pfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "location": "Santorini",
+        "country":"Greece"
+      }
+    ],
+    "stayCards":[
+      {
+        "img":"https://links.papareact.com/2io",
+        "title":"Cabins"
+      },
+      {
+        "img":"https://links.papareact.com/q7j",
+        "title":"Unique stays"
+      },
+      {
+        "img":"https://links.papareact.com/s03",
+        "title":"Entire homes"
+      },
+      {
+        "img":"https://images.unsplash.com/photo-1624804821465-5c7c80f99bd1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHJpYWR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title":"Riads"
+      },
+      {
+        "img":"https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+        "title":"Pet allowed"
+      }
+    ]
+  }
