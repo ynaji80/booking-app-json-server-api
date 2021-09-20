@@ -1,403 +1,760 @@
 {
   "hotels": [
     {
-      "id":1,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 1,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "London",
       "location": "Private room in center of London",
       "title": "Stay at this spacious Edwardian House",
       "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.73,
-      "rating":[],
+      "rating": [],
       "price": 30,
       "long": -0.0022275,
       "lat": 51.5421655,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":2,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 2,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "London",
       "location": "Private room in center of London",
       "title": "Independant luxury studio apartment",
       "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.3,
-      "rating":[],
+      "rating": [],
       "price": 40,
       "long": -0.095091,
       "lat": 51.48695,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":3,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 3,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "London",
       "location": "Private room in center of London",
       "title": "London Studio Apartments",
       "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.8,
-      "rating":[],
+      "rating": [],
       "price": 35,
       "long": -0.135638,
       "lat": 51.521916,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":4,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 4,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "Paris",
       "location": "Private room in center of Paris",
       "title": "30 mins to the Louvre Museum in Paris",
       "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.1,
-      "rating":[],
+      "rating": [],
       "price": 55,
       "long": 2.285719,
       "lat": 48.867254,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":5,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 5,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "Paris",
       "location": "Private room in center of Paris",
       "title": "Spacious Peaceful Modern Bedroom",
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 5,
-      "rating":[],
+      "rating": [],
       "price": 60,
-      "lat":48.85383,
-      "long":2.35133,
+      "lat": 48.85383,
+      "long": 2.35133,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":6,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 6,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "Paris",
       "location": "Private room in center of Paris-Ritz hotel",
       "title": "Spacious Peaceful Modern Bedroom",
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 5,
-      "rating":[],
+      "rating": [],
       "price": 60,
-      "lat":48.86733,
-      "long":2.32383,
+      "lat": 48.86733,
+      "long": 2.32383,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":7,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 7,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "New York",
       "location": "Private room in center of New York",
       "title": "Sofitel New York Hotel",
       "description": "2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.23,
-      "rating":[],
+      "rating": [],
       "price": 65,
-      "lat":40.75333,
-      "long":-73.9755,
+      "lat": 40.75333,
+      "long": -73.9755,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":8,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 8,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "New York",
       "location": "Private room in center of New York",
       "title": "5 Star Luxury room-The London NYC Hotel",
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.85,
-      "rating":[],
+      "rating": [],
       "price": 90,
-      "lat":	40.763439,
-      "long":	-73.980537,
+      "lat": 40.763439,
+      "long": -73.980537,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     },
     {
-      "id":9,
-      "img": ["https://links.papareact.com/xqj","https://links.papareact.com/hz2","https://links.papareact.com/uz7","https://links.papareact.com/6as"],
+      "id": 9,
+      "img": [
+        "https://links.papareact.com/xqj",
+        "https://links.papareact.com/hz2",
+        "https://links.papareact.com/uz7",
+        "https://links.papareact.com/6as"
+      ],
       "city": "New York",
       "location": "Private room in center of New York",
       "title": "Roosevelt hotel New York",
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.85,
-      "rating":[],
+      "rating": [],
       "price": 105,
-      "long":  -73.9742,
+      "long": -73.9742,
       "lat": 40.7556,
       "open": "2021-09-08",
-      "closed": "2021-09-20"
+      "closed": "2021-10-20"
     }
   ],
-  "users":[
-
+  "users": [
   ],
   "cityCards": [
     {
       "img": "https://images.unsplash.com/photo-1509095660908-d9b1e7ffec62?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fGxvbmRvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "location": "London",
-      "country":"United Kingdom"
+      "country": "United Kingdom"
     },
-    
     {
       "img": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "location": "New York",
-      "country":"United States"
+      "country": "United States"
     },
     {
       "img": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
       "location": "Paris",
-      "country":"France"
-    },    
+      "country": "France"
+    },
     {
       "img": "https://images.unsplash.com/photo-1599859725763-4a16c9468890?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=908&q=80",
       "location": "Marrakech",
-      "country":"Morocco"
+      "country": "Morocco"
     },
     {
       "img": "https://images.unsplash.com/photo-1513326738677-b964603b136d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80",
       "location": "Moscow",
-      "country":"Russia"
+      "country": "Russia"
     },
     {
       "img": "https://images.unsplash.com/photo-1539037116277-4db20889f2d4?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YmFyY2Vsb25hfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "location": "Barcelona",
-      "country":"Spain"
+      "country": "Spain"
     },
     {
       "img": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JlZWNlJTIwc2FudG9yaW5pfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
       "location": "Santorini",
-      "country":"Greece"
+      "country": "Greece"
     }
   ],
-  "stayCards":[
+  "stayCards": [
     {
-      "img":"https://links.papareact.com/2io",
-      "title":"Cabins"
+      "img": "https://links.papareact.com/2io",
+      "title": "Cabins"
     },
     {
-      "img":"https://links.papareact.com/q7j",
-      "title":"Unique stays"
+      "img": "https://links.papareact.com/q7j",
+      "title": "Unique stays"
     },
     {
-      "img":"https://links.papareact.com/s03",
-      "title":"Entire homes"
+      "img": "https://links.papareact.com/s03",
+      "title": "Entire homes"
     },
     {
-      "img":"https://images.unsplash.com/photo-1624804821465-5c7c80f99bd1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHJpYWR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-      "title":"Riads"
+      "img": "https://images.unsplash.com/photo-1624804821465-5c7c80f99bd1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHJpYWR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "title": "Riads"
     },
     {
-      "img":"https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
-      "title":"Pet allowed"
+      "img": "https://images.unsplash.com/photo-1601758123927-4f7acc7da589?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+      "title": "Pet allowed"
     }
   ],
-  "articles":[
-       {
-          "id":1,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/124728212.webp?k=7b5c982e56da0da2c45cb3e7663683b608d309a239a77ba2729f14cc6f0f36b2&o=",
-          "category": "Destinations",
-          "title": "48 hours in Tokyo for every traveler",
-          "description": "The perfect itinerary for a two-day trip around Tokyo – for every type of explorer. ",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":2,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/122809197.webp?k=e7f86e398e43427ca04f743292823c6cdbc72ce486cb8a5609af837afd6f5255&o=",
-          "category": "Destinations",
-          "title": "8 ideas for an incredible solo trip",
-          "description": "Make the most of me time by exploring a new city or just getting away from it all.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":3,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/120884290.webp?k=e7504fd306c3177ea4e43df0f4cb408e39504c037a16bc7fb727593d4da4baf6&o=",
-          "category": "Destinations",
-          "title": "Destination Inspiration: Moshi, Tanzania",
-          "description": "Explore East Africa’s natural wonders from this Tanzanian town.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":4,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/67533802.webp?k=4ae51f9c4e37cfeaea91f00067f669208b1e268c6f766faf1f33992b286fcd14&o=",
-          "category": "Beach",
-          "title": "The Best Beaches in the Southeastern U.S.",
-          "description": "From Miami’s flashy South Beach, to a shoreside graveyard in Georgia.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":5,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/67274360.webp?k=b62623f4e5dc6f32668aa1472915f4bb06c6071dc9bc1a830ec71a6281ff9f61&o=",
-          "category": "Beach",
-          "title": "The ultimate dog-friendly beaches in California",
-          "description": "Let your pups doggy-paddle in the waves or roam leash-free over golden sands. ",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":6,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/720x405/57651434.webp?k=5d427df93a21b3d2b8a75f1131d5168a724163c6b7bcb8f8f5ac6e03048bfd5e&o=",
-          "category": "Beach",
-          "title": "Canada's Best Beach Walks",
-          "description": "Beaches freckled with frosted sea glass and framed by orange sandstone cliffs. ",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },
-       {
-          "id":7,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/720x405/93131811.webp?k=45911868ec1283291f9fb88446fd102f711de4b472a89a15bdbbcf78a8caa360&o=",
-          "category": "Travel tips",
-          "title": "The world is waiting for us",
-          "description": "We’re going through a lot of change, but we’ll never lose our desire to explore.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-     },        
-       {
-          "id":8,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/43669717.webp?k=f0fe94d4e6e4520971a9ea51770ad4387e6d5badcc2b9aace18b926198974df9&o=",
-          "category": "Travel tips",
-          "title": "10 Design Capsule Hotels and Hostels",
-          "description": "Tiny hotels with great ratings from international travelers.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      },        
-       {
-          "id":9,
-          "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/29345946.webp?k=cdafa47c516c564c68811c66a57eb241d7ee46b5a0a07d194e278467e6db46f6&o=",
-          "category": "Travel tips",
-          "title": "The Best Nerdy Hotels for a Romantic Weekend",
-          "description": "Because the couple that geeks out together stays together.",
-          "content": [
-              {"id":1,"paragraph":""},
-              {"id":2,"paragraph":""},
-              {"id":3,"paragraph":""},
-              {"id":4,"paragraph":""},
-              {"id":5,"paragraph":""}
-          ],
-          "images": [
-              {"id":1,"title":"","img":""},
-              {"id":2,"title":"","img":""},
-              {"id":3,"title":"","img":""},
-              {"id":4,"title":"","img":""},
-              {"id":5,"title":"","img":""}
-          ]
-      }        
-   ]
-  
+  "articles": [
+    {
+      "id": 1,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/124728212.webp?k=7b5c982e56da0da2c45cb3e7663683b608d309a239a77ba2729f14cc6f0f36b2&o=",
+      "category": "Destinations",
+      "title": "48 hours in Tokyo for every traveler",
+      "description": "The perfect itinerary for a two-day trip around Tokyo – for every type of explorer. ",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/122809197.webp?k=e7f86e398e43427ca04f743292823c6cdbc72ce486cb8a5609af837afd6f5255&o=",
+      "category": "Destinations",
+      "title": "8 ideas for an incredible solo trip",
+      "description": "Make the most of me time by exploring a new city or just getting away from it all.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/120884290.webp?k=e7504fd306c3177ea4e43df0f4cb408e39504c037a16bc7fb727593d4da4baf6&o=",
+      "category": "Destinations",
+      "title": "Destination Inspiration: Moshi, Tanzania",
+      "description": "Explore East Africa’s natural wonders from this Tanzanian town.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/67533802.webp?k=4ae51f9c4e37cfeaea91f00067f669208b1e268c6f766faf1f33992b286fcd14&o=",
+      "category": "Beach",
+      "title": "The Best Beaches in the Southeastern U.S.",
+      "description": "From Miami’s flashy South Beach, to a shoreside graveyard in Georgia.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/67274360.webp?k=b62623f4e5dc6f32668aa1472915f4bb06c6071dc9bc1a830ec71a6281ff9f61&o=",
+      "category": "Beach",
+      "title": "The ultimate dog-friendly beaches in California",
+      "description": "Let your pups doggy-paddle in the waves or roam leash-free over golden sands. ",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/720x405/57651434.webp?k=5d427df93a21b3d2b8a75f1131d5168a724163c6b7bcb8f8f5ac6e03048bfd5e&o=",
+      "category": "Beach",
+      "title": "Canada's Best Beach Walks",
+      "description": "Beaches freckled with frosted sea glass and framed by orange sandstone cliffs. ",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/720x405/93131811.webp?k=45911868ec1283291f9fb88446fd102f711de4b472a89a15bdbbcf78a8caa360&o=",
+      "category": "Travel tips",
+      "title": "The world is waiting for us",
+      "description": "We’re going through a lot of change, but we’ll never lose our desire to explore.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/43669717.webp?k=f0fe94d4e6e4520971a9ea51770ad4387e6d5badcc2b9aace18b926198974df9&o=",
+      "category": "Travel tips",
+      "title": "10 Design Capsule Hotels and Hostels",
+      "description": "Tiny hotels with great ratings from international travelers.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "img": "https://cf.bstatic.com/xdata/images/xphoto/540x405/29345946.webp?k=cdafa47c516c564c68811c66a57eb241d7ee46b5a0a07d194e278467e6db46f6&o=",
+      "category": "Travel tips",
+      "title": "The Best Nerdy Hotels for a Romantic Weekend",
+      "description": "Because the couple that geeks out together stays together.",
+      "content": [
+        {
+          "id": 1,
+          "paragraph": ""
+        },
+        {
+          "id": 2,
+          "paragraph": ""
+        },
+        {
+          "id": 3,
+          "paragraph": ""
+        },
+        {
+          "id": 4,
+          "paragraph": ""
+        },
+        {
+          "id": 5,
+          "paragraph": ""
+        }
+      ],
+      "images": [
+        {
+          "id": 1,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 2,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 3,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 4,
+          "title": "",
+          "img": ""
+        },
+        {
+          "id": 5,
+          "title": "",
+          "img": ""
+        }
+      ]
+    }
+  ]
 }
