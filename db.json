@@ -14,7 +14,15 @@
       "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.73,
-      "rating": [],
+      "rating": [
+        {
+          "id": 0
+        },
+        {
+          "id": 1,
+          "userRating": 3
+        }
+      ],
       "price": 30,
       "long": -0.0022275,
       "lat": 51.5421655,
@@ -35,7 +43,12 @@
       "description": "2 guest · 3 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.3,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 4
+        }
+      ],
       "price": 40,
       "long": -0.095091,
       "lat": 51.48695,
@@ -56,7 +69,12 @@
       "description": "4 guest · 4 bedroom · 4 bed · 2 bathrooms · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.8,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 2
+        }
+      ],
       "price": 35,
       "long": -0.135638,
       "lat": 51.521916,
@@ -77,7 +95,12 @@
       "description": "1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.1,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 4
+        }
+      ],
       "price": 55,
       "long": 2.285719,
       "lat": 48.867254,
@@ -98,7 +121,12 @@
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 5,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 2
+        }
+      ],
       "price": 60,
       "lat": 48.85383,
       "long": 2.35133,
@@ -119,7 +147,12 @@
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Free parking · Dry Cleaning",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 5,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 4
+        }
+      ],
       "price": 60,
       "lat": 48.86733,
       "long": 2.32383,
@@ -140,7 +173,15 @@
       "description": "2 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 4.23,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 5
+        },
+        {
+          "id": 0
+        }
+      ],
       "price": 65,
       "lat": 40.75333,
       "long": -73.9755,
@@ -161,7 +202,14 @@
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.85,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1
+        },
+        {
+          "id": 0
+        }
+      ],
       "price": 90,
       "lat": 40.763439,
       "long": -73.980537,
@@ -182,7 +230,15 @@
       "description": "3 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
       "About": "We are pleased to welcome you into a bright and warm atmosphere. Our rooms are equipped with double bed with quality linen, a desk and a private bathroom. Very comfortable. In order to guarantee the room, a pre-authorization of € 100 will be made on the reservationer's credit card upon arrival. Arrival must be made by the person reserving.",
       "star": 3.85,
-      "rating": [],
+      "rating": [
+        {
+          "id": 1,
+          "userRating": 4
+        },
+        {
+          "id": 0
+        }
+      ],
       "price": 105,
       "long": -73.9742,
       "lat": 40.7556,
@@ -191,6 +247,51 @@
     }
   ],
   "users": [
+    {
+      "name": "Youness NAJI",
+      "email": "najiyounes80@gmail.com",
+      "favorite": [
+        1,
+        5,
+        2
+      ],
+      "rating": [
+        {
+          "id": 2,
+          "hotelRating": 4
+        },
+        {
+          "id": 5,
+          "hotelRating": 2
+        },
+        {
+          "id": 3,
+          "hotelRating": 2
+        },
+        {
+          "id": 7,
+          "hotelRating": 5
+        },
+        {
+          "id": 4,
+          "hotelRating": 4
+        },
+        {
+          "id": 9,
+          "hotelRating": 4
+        },
+        {
+          "id": 1,
+          "hotelRating": 3
+        },
+        {
+          "id": 6,
+          "hotelRating": 4
+        }
+      ],
+      "booked": [],
+      "id": 1
+    }
   ],
   "cityCards": [
     {
